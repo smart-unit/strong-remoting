@@ -28,7 +28,7 @@
     "eventemitter2": "^5.0.1",
     "express": "4.x",
     "inflection": "^1.7.1",
-    "jayson": "^2.0.5",
+    "jayson": "^4.1.0",
     "js2xmlparser": "^3.0.0",
     "loopback-datatype-geopoint": "^1.0.0",
     "loopback-phase": "https://github.com/smart-unit/loopback-phase.git",
